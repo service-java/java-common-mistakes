@@ -1,6 +1,6 @@
 package org.geekbang.time.commonmistakes.ch01_concurrenttool.threadlocal;
 
-import org.geekbang.time.commonmistakes.common.Utils;
+import org.geekbang.time.commonmistakes._common.Utils;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

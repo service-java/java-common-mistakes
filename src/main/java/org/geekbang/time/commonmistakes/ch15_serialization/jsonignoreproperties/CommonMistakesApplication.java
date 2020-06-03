@@ -1,7 +1,7 @@
 package org.geekbang.time.commonmistakes.ch15_serialization.jsonignoreproperties;
 
 import com.fasterxml.jackson.databind.SerializationFeature;
-import org.geekbang.time.commonmistakes.common.Utils;
+import org.geekbang.time.commonmistakes._common.Utils;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jackson.Jackson2ObjectMapperBuilderCustomizer;

@@ -1,7 +1,7 @@
 package org.geekbang.time.commonmistakes.ch17_oom.impropermaxheadersize;
 
 import lombok.extern.slf4j.Slf4j;
-import org.geekbang.time.commonmistakes.common.Utils;
+import org.geekbang.time.commonmistakes._common.Utils;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

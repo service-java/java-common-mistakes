@@ -1,4 +1,4 @@
-package org.geekbang.time.commonmistakes.common;
+package org.geekbang.time.commonmistakes._common;
 
 import lombok.extern.slf4j.Slf4j;
 
